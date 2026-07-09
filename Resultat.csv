@@ -1,0 +1,498 @@
+Age,Customer spendings,Gender,Country
+71,356,Man,Norway
+37,173,Women,Pakistan
+24,105,Women,Colombia
+37,28,Women,South Africa
+42,13,Women,France
+40,380,Women,Belgium
+47,79,Man,Belgium
+46,336,Women,Canada
+58,401,Man,Indonesia
+41,438,Man,Indonesia
+30,59,Man,South Africa
+27,586,Women,Brazil
+63,491,Man,Italy
+28,141,Women,Australia
+68,524,Women,Turkey
+74,258,Man,Nigeria
+47,477,Man,France
+51,585,Man,Pakistan
+57,32,Women,Germany
+60,379,Man,United States
+25,82,Man,Mexico
+52,30,Women,Netherlands
+44,125,Women,Norway
+24,349,Women,Poland
+57,317,Man,Vietnam
+27,434,Women,Costa Rica
+29,446,Women,Peru
+53,261,Women,China
+41,590,Man,India
+64,141,Man,Ireland
+47,453,Man,Austria
+60,184,Man,New Zealand
+67,538,Man,Costa Rica
+64,193,Man,Ireland
+25,483,Man,Philippines
+24,104,Women,Turkey
+37,504,Women,China
+56,107,Man,Brazil
+24,353,Women,China
+35,71,Women,Canada
+73,264,Women,South Korea
+35,149,Man,China
+26,536,Man,Germany
+66,240,Women,France
+49,550,Women,Mexico
+46,61,Women,Belgium
+44,288,Man,Pakistan
+58,186,Man,Mexico
+52,17,Women,Germany
+59,349,Women,United States
+68,18,Women,Costa Rica
+74,521,Women,Russian Federation
+38,196,Man,Sweden
+69,522,Women,France
+46,85,Women,Australia
+47,95,Man,Poland
+20,261,Women,Netherlands
+50,588,Man,Ukraine
+60,455,Man,Singapore
+32,427,Man,Mexico
+72,247,Man,Spain
+67,247,Man,Ireland
+29,563,Man,Indonesia
+37,199,Women,Belgium
+49,389,Women,Mexico
+67,256,Women,Philippines
+22,598,Women,New Zealand
+29,146,Women,Germany
+68,409,Women,New Zealand
+36,295,Women,Germany
+25,243,Women,Peru
+41,518,Women,Turkey
+60,150,Man,Norway
+34,476,Women,India
+66,302,Women,Colombia
+33,477,Women,South Africa
+71,147,Man,India
+56,452,Women,South Africa
+47,118,Man,Colombia
+48,570,Women,Russian Federation
+74,259,Women,Turkey
+24,231,Women,Russian Federation
+60,197,Man,Chile
+41,311,Women,Sweden
+29,226,Women,Italy
+38,279,Man,Chile
+37,67,Man,Belgium
+67,194,Women,Turkey
+73,311,Women,Belgium
+45,375,Man,Austria
+19,242,Man,Ukraine
+25,418,Women,Canada
+64,408,Man,Canada
+40,515,Women,China
+28,371,Women,Peru
+69,529,Women,New Zealand
+22,419,Man,South Korea
+51,532,Man,Pakistan
+27,273,Women,Sweden
+29,169,Man,Australia
+52,552,Man,Sweden
+71,12,Women,Singapore
+19,382,Man,South Africa
+49,153,Man,Ireland
+34,79,Man,New Zealand
+40,426,Women,Singapore
+35,455,Man,Indonesia
+59,76,Women,South Korea
+69,262,Women,Peru
+27,276,Women,Sweden
+26,275,Man,India
+19,192,Women,Australia
+36,378,Women,India
+53,271,Man,Pakistan
+60,143,Women,Philippines
+73,588,Women,Turkey
+38,343,Women,New Zealand
+40,484,Women,Ukraine
+37,510,Man,Nigeria
+34,117,Man,Belgium
+52,558,Women,Philippines
+18,457,Man,Ireland
+26,28,Women,Ukraine
+41,41,Women,Pakistan
+28,549,Women,Ukraine
+31,184,Women,Philippines
+31,303,Man,China
+38,490,Man,Netherlands
+71,254,Women,Sweden
+44,38,Man,Australia
+25,553,Man,Chile
+38,362,Man,Italy
+47,518,Women,Spain
+38,196,Women,Australia
+60,594,Man,Turkey
+29,97,Man,Australia
+46,223,Women,Netherlands
+30,449,Women,Mexico
+68,272,Women,Colombia
+32,280,Man,Peru
+46,296,Women,Russian Federation
+36,234,Man,Italy
+33,295,Man,Ukraine
+20,499,Man,United States
+19,128,Man,Colombia
+70,328,Women,Spain
+28,432,Man,Netherlands
+56,467,Man,Vietnam
+25,335,Man,Brazil
+45,300,Man,France
+63,241,Women,Austria
+53,25,Man,Ukraine
+48,226,Man,Vietnam
+36,418,Women,Ukraine
+51,592,Man,Philippines
+55,263,Man,Indonesia
+24,188,Women,Netherlands
+40,531,Man,United States
+40,11,Man,Vietnam
+41,22,Man,Austria
+57,328,Women,Australia
+21,38,Women,Brazil
+29,433,Man,Russian Federation
+51,496,Women,United States
+58,264,Women,Russian Federation
+50,421,Man,Netherlands
+63,279,Man,Turkey
+34,464,Man,Indonesia
+40,524,Man,Germany
+55,549,Man,Poland
+65,207,Women,Russian Federation
+20,158,Women,New Zealand
+29,196,Women,China
+34,584,Women,Colombia
+45,339,Women,Chile
+18,153,Women,China
+69,353,Women,Germany
+54,466,Women,Germany
+23,276,Women,New Zealand
+50,194,Women,Austria
+58,361,Man,Poland
+48,66,Women,Brazil
+34,525,Women,France
+18,413,Women,China
+27,558,Women,Austria
+45,507,Women,Mexico
+49,130,Women,China
+65,148,Women,Norway
+42,177,Man,Chile
+22,487,Man,Colombia
+68,256,Women,Sweden
+69,466,Man,Ireland
+39,261,Women,Vietnam
+65,267,Women,Chile
+53,454,Women,Netherlands
+37,411,Women,Nigeria
+18,195,Man,Colombia
+48,61,Man,Vietnam
+19,122,Man,Austria
+19,530,Women,Netherlands
+41,554,Women,Netherlands
+35,591,Man,Ireland
+22,254,Man,Pakistan
+67,463,Women,France
+68,276,Man,Mexico
+23,124,Women,Italy
+24,71,Women,Peru
+23,333,Man,Indonesia
+71,57,Man,Spain
+62,489,Man,Peru
+71,149,Women,South Korea
+59,579,Man,Turkey
+43,15,Women,Norway
+24,73,Women,Brazil
+65,448,Women,Chile
+41,501,Man,Mexico
+24,155,Man,Colombia
+44,538,Women,Ukraine
+34,540,Women,South Korea
+20,12,Man,Ireland
+21,40,Women,Belgium
+42,49,Women,India
+74,593,Man,Brazil
+49,339,Man,Indonesia
+67,128,Man,Ukraine
+61,221,Women,Germany
+55,437,Man,Australia
+69,530,Women,Austria
+73,528,Women,Spain
+35,72,Women,Italy
+30,122,Women,Spain
+67,96,Women,Pakistan
+28,500,Women,Peru
+66,513,Man,South Korea
+65,573,Women,Pakistan
+56,303,Man,Germany
+25,565,Women,Vietnam
+73,184,Man,Sweden
+52,109,Man,China
+33,160,Women,South Africa
+58,448,Man,Vietnam
+37,373,Women,Colombia
+39,153,Women,Belgium
+38,577,Women,Russian Federation
+71,311,Women,Ireland
+66,152,Women,Italy
+66,555,Women,Australia
+51,572,Man,Mexico
+58,357,Women,Peru
+19,85,Man,Sweden
+30,79,Man,Costa Rica
+74,125,Man,Philippines
+60,596,Women,Costa Rica
+56,128,Women,Vietnam
+73,78,Man,Netherlands
+55,387,Man,Costa Rica
+25,414,Women,New Zealand
+44,355,Women,Canada
+58,331,Man,New Zealand
+25,265,Women,United States
+56,189,Women,Australia
+33,376,Man,South Korea
+23,151,Man,Indonesia
+38,559,Man,Australia
+68,506,Man,Peru
+50,318,Women,Mexico
+40,541,Man,Peru
+48,267,Women,Ukraine
+19,199,Women,New Zealand
+20,184,Women,Poland
+67,380,Man,United States
+51,269,Man,Spain
+62,207,Man,United Kingdom
+50,50,Man,Belgium
+48,253,Man,South Africa
+27,57,Women,Nigeria
+61,34,Man,Italy
+38,508,Women,Peru
+49,525,Women,Ireland
+48,317,Man,Russian Federation
+43,318,Man,South Africa
+22,545,Man,United States
+53,360,Women,New Zealand
+47,356,Man,South Africa
+74,278,Man,France
+22,296,Women,Sweden
+23,441,Women,Costa Rica
+71,292,Man,Ireland
+64,491,Man,Poland
+29,527,Women,Mexico
+69,486,Women,Brazil
+62,574,Man,Netherlands
+47,273,Man,South Korea
+52,318,Women,South Korea
+23,478,Man,Vietnam
+32,150,Women,France
+22,565,Man,Pakistan
+33,550,Man,Ireland
+64,477,Man,Nigeria
+40,323,Women,Philippines
+68,203,Women,Mexico
+23,485,Women,Poland
+54,527,Man,South Africa
+29,501,Man,Chile
+54,57,Women,Canada
+67,455,Women,Norway
+29,421,Man,Austria
+24,190,Women,South Africa
+28,252,Women,Austria
+45,20,Women,Italy
+21,286,Man,Nigeria
+35,285,Women,South Korea
+33,433,Women,Netherlands
+34,494,Women,China
+37,508,Women,New Zealand
+30,420,Women,Indonesia
+70,373,Women,Austria
+67,540,Man,Canada
+57,131,Man,South Africa
+35,433,Women,Norway
+62,240,Man,France
+21,281,Women,Germany
+72,244,Man,Sweden
+44,469,Women,Brazil
+62,241,Man,Germany
+51,475,Women,Germany
+40,67,Women,Ireland
+55,221,Women,Germany
+68,297,Man,China
+57,310,Women,Germany
+44,346,Man,Italy
+42,466,Man,Colombia
+36,276,Women,United Kingdom
+21,523,Women,South Korea
+55,111,Women,United Kingdom
+36,156,Women,Pakistan
+47,157,Man,China
+45,89,Man,Chile
+50,391,Man,South Africa
+29,286,Man,Indonesia
+59,293,Man,Indonesia
+34,92,Women,Belgium
+50,296,Man,United States
+43,512,Women,Nigeria
+29,525,Women,Spain
+45,376,Man,Russian Federation
+21,500,Man,Italy
+55,464,Man,South Africa
+59,299,Women,India
+72,403,Women,Ukraine
+49,198,Man,India
+45,349,Women,France
+38,568,Man,Germany
+67,122,Women,Austria
+43,14,Women,Singapore
+49,594,Women,Spain
+50,578,Women,Vietnam
+65,343,Women,Russian Federation
+19,557,Women,New Zealand
+59,399,Man,Chile
+42,36,Women,United States
+74,308,Man,Belgium
+28,274,Man,United Kingdom
+42,472,Women,Indonesia
+72,171,Women,Singapore
+52,455,Man,Spain
+46,58,Women,Ukraine
+47,129,Women,Chile
+46,453,Man,Canada
+30,576,Man,United States
+62,75,Women,United Kingdom
+47,310,Man,United States
+40,458,Man,Sweden
+66,473,Man,Poland
+36,489,Women,Norway
+72,270,Man,France
+40,318,Man,Netherlands
+69,512,Women,China
+69,363,Women,India
+58,160,Man,Turkey
+41,318,Man,Chile
+44,506,Women,Australia
+44,115,Man,Costa Rica
+36,74,Man,Belgium
+37,72,Man,Mexico
+24,489,Women,Nigeria
+51,581,Women,Brazil
+62,572,Women,Mexico
+23,447,Man,Singapore
+71,592,Man,Netherlands
+66,324,Man,Nigeria
+51,147,Man,Brazil
+51,494,Women,Netherlands
+39,502,Women,New Zealand
+60,338,Man,Mexico
+23,136,Women,United States
+32,291,Women,Ukraine
+42,292,Women,Turkey
+68,181,Man,Italy
+73,398,Man,Chile
+57,260,Man,Philippines
+28,374,Women,Nigeria
+57,256,Man,Spain
+55,482,Man,Netherlands
+61,390,Women,India
+40,331,Women,United States
+42,236,Man,New Zealand
+68,567,Women,Austria
+51,14,Man,Indonesia
+65,281,Man,South Africa
+21,243,Women,Russian Federation
+38,522,Man,India
+53,87,Man,United Kingdom
+22,568,Women,Belgium
+54,447,Man,Philippines
+36,35,Women,Sweden
+44,330,Women,United Kingdom
+56,83,Women,France
+51,142,Man,United States
+36,147,Man,Ireland
+57,421,Women,France
+52,182,Man,Norway
+70,293,Man,Indonesia
+23,561,Women,Vietnam
+35,456,Women,South Africa
+53,464,Man,Philippines
+26,243,Women,Ireland
+18,341,Man,China
+54,307,Women,United States
+30,86,Man,Poland
+45,146,Women,Costa Rica
+71,422,Women,United States
+52,178,Man,New Zealand
+52,493,Women,Poland
+57,293,Women,United States
+34,329,Man,Ireland
+27,190,Women,Austria
+45,378,Man,Philippines
+70,260,Women,India
+61,480,Man,South Korea
+74,408,Man,Mexico
+71,377,Women,Netherlands
+49,224,Women,Philippines
+72,242,Women,France
+37,587,Women,India
+45,209,Man,United States
+41,421,Man,Philippines
+74,363,Women,Ukraine
+70,51,Women,Indonesia
+62,257,Man,Chile
+58,221,Man,Ireland
+67,450,Man,Norway
+36,485,Man,New Zealand
+51,489,Women,Colombia
+45,143,Man,Philippines
+45,428,Women,Mexico
+43,201,Man,United Kingdom
+21,79,Women,Colombia
+64,307,Women,Belgium
+57,266,Women,Spain
+58,464,Man,Ukraine
+54,343,Women,Norway
+51,578,Women,Costa Rica
+45,537,Man,Mexico
+63,50,Women,New Zealand
+36,165,Man,Singapore
+44,282,Man,Netherlands
+24,204,Women,Peru
+21,388,Women,Canada
+29,431,Man,Mexico
+73,173,Man,Ireland
+65,143,Women,United States
+63,334,Women,Vietnam
+54,341,Women,Brazil
+38,549,Man,Nigeria
+68,138,Women,Russian Federation
+33,91,Women,South Africa
+26,398,Women,Costa Rica
+65,35,Women,Brazil
+46,256,Women,Brazil
+59,13,Women,Costa Rica
+59,549,Man,Mexico
+23,114,Man,Mexico
+29,93,Man,Norway
+49,412,Women,China
+60,166,Women,Ireland
+72,171,Women,South Africa
+27,82,Women,Austria
+67,347,Man,Ukraine
+68,288,Women,Peru
+31,379,Man,Singapore
+59,372,Man,Pakistan
+28,182,Women,South Africa
+46,25,Women,France
+43,42,Women,Peru
+20,511,Women,China
+72,518,Women,United States
